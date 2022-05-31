@@ -38,6 +38,7 @@ Build an unsupervised learning model which can enable your company to analyze th
 6. Model building (trying unsupervised learning model) 
 7. Grouping the customer based on their performance.
 8. Show the distribution of the Customers and merge to the data.
+     ![download](https://user-images.githubusercontent.com/92949677/171184356-62b64097-0c3a-4b3e-9edf-96dc683b6cdb.png)
 
 ## Important Libraries
 
