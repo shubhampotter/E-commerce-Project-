@@ -1,5 +1,8 @@
 
 # E-Commerce Analytics  Data Science Project
+
+![rfm_image](https://user-images.githubusercontent.com/92949677/171182616-4ead082c-9701-48ab-96cd-7618da562413.png)
+
 -In this project ,you will analyze and segment the customer of an e-commerce company by using  RFM approach.
 
 -This will enable the e-commerce company to optimize their retention and acquisition strategies. 
